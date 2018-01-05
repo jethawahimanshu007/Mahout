@@ -1,3 +1,7 @@
-command.txt is the command used.
-src.zip contains java code for converting to sequence file from text and vice versa
+This project uses Apache Mahout to form clusters in a data set based on K-means clustering algorithm. 
+Although there is a direct command for creating clusters, the format in which clusters are outputted are not plain text. 
+
+command.txt is the file that gives the command used.
+
+src/src folder contains java code for converting to sequence file from text and vice versa and bunch of other required files to analyze the cluster data.
 
